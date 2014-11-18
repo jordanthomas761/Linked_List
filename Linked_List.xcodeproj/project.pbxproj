@@ -28,6 +28,7 @@
 		5AAFBF511A1BFDB1009E03DF /* linked_list.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = linked_list.c; path = Linked_List/linked_list.c; sourceTree = SOURCE_ROOT; };
 		5AAFBF531A1BFDCE009E03DF /* linked_list.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = linked_list.h; path = Linked_List/linked_list.h; sourceTree = SOURCE_ROOT; };
 		5AAFBF541A1BFDD9009E03DF /* test_list.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = test_list.c; path = Linked_List/test_list.c; sourceTree = SOURCE_ROOT; };
+		5AAFBF561A1BFEAD009E03DF /* Assignment_5.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; name = Assignment_5.1; path = Linked_List/Assignment_5.1; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				5AAFBF511A1BFDB1009E03DF /* linked_list.c */,
+				5AAFBF561A1BFEAD009E03DF /* Assignment_5.1 */,
 				5AAFBF531A1BFDCE009E03DF /* linked_list.h */,
 				5AAFBF541A1BFDD9009E03DF /* test_list.c */,
 			);
